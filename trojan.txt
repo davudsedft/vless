@@ -1,31 +1,19 @@
-trojan://bpb-trojan@purtuf.pages.dev:443?path=%2FtrGoRLBQFLIMFgC7NN%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=PUrTUF.PAGES.deV#%F0%9F%92%A6+1+-+Trojan+-+Domain+%3A+443
-trojan://bpb-trojan@www.speedtest.net:443?path=%2FtrvMp5NBKxe7TQl1EY%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=pUrtUf.PagEs.DEV#%F0%9F%92%A6+2+-+Trojan+-+Domain+%3A+443
-trojan://bpb-trojan@188.114.96.0:443?path=%2FtrUZIWcCwvzQHyjS6A%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=pUrtUf.PaGES.DEv#%F0%9F%92%A6+3+-+Trojan+-+IPv4+%3A+443
-trojan://bpb-trojan@188.114.97.0:443?path=%2FtrvT8WaI7ZBGJnQPCB%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=PurtUF.PAges.dEV#%F0%9F%92%A6+4+-+Trojan+-+IPv4+%3A+443
-trojan://bpb-trojan@104.16.95.96:443?path=%2Ftrl9CyDnZHUCO9CpJw%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=purTuf.pAgeS.dEv#%F0%9F%92%A6+5+-+Trojan+-+Clean+IP+%3A+443
-trojan://bpb-trojan@purtuf.pages.dev:8443?path=%2Ftr4vzwrUAszBHmheEY%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=PurTUF.Pages.dEV#%F0%9F%92%A6+6+-+Trojan+-+Domain+%3A+8443
-trojan://bpb-trojan@www.speedtest.net:8443?path=%2FtrCWNALRGF8mOjuDWY%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=PuRtuF.PageS.dEv#%F0%9F%92%A6+7+-+Trojan+-+Domain+%3A+8443
-trojan://bpb-trojan@188.114.96.0:8443?path=%2FtrYREZ57jOet8sc9xN%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=PURTUF.PaGEs.deV#%F0%9F%92%A6+8+-+Trojan+-+IPv4+%3A+8443
-trojan://bpb-trojan@188.114.97.0:8443?path=%2FtrQKFhfJjQdo8NOgp5%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=PURtuf.PageS.DEV#%F0%9F%92%A6+9+-+Trojan+-+IPv4+%3A+8443
-trojan://bpb-trojan@104.16.95.96:8443?path=%2Ftrnp4x6zUjtCpJ4HS2%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=purtUf.PAgeS.dEv#%F0%9F%92%A6+10+-+Trojan+-+Clean+IP+%3A+8443
-trojan://bpb-trojan@purtuf.pages.dev:2053?path=%2FtrrrMWWcTQoNW8UKuU%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=PuRtuF.PAGeS.dEV#%F0%9F%92%A6+11+-+Trojan+-+Domain+%3A+2053
-trojan://bpb-trojan@www.speedtest.net:2053?path=%2FtrUxR0fEEhPPnX6o2T%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=PURTuF.paGEs.DEV#%F0%9F%92%A6+12+-+Trojan+-+Domain+%3A+2053
-trojan://bpb-trojan@188.114.96.0:2053?path=%2Ftrxmdqxfl8wvRlLAXj%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=puRtuF.PaGES.dEV#%F0%9F%92%A6+13+-+Trojan+-+IPv4+%3A+2053
-trojan://bpb-trojan@188.114.97.0:2053?path=%2FtrXzwy3ooHfdAkMDKN%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=pUrTuf.pAgeS.dEV#%F0%9F%92%A6+14+-+Trojan+-+IPv4+%3A+2053
-trojan://bpb-trojan@104.16.95.96:2053?path=%2FtrIkK6Q5MK42xgZEpb%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=PuRTuF.PAGES.deV#%F0%9F%92%A6+15+-+Trojan+-+Clean+IP+%3A+2053
-trojan://bpb-trojan@purtuf.pages.dev:2083?path=%2FtrWBLTE9GyBGPOqmxI%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=purtUF.pAgES.DEv#%F0%9F%92%A6+16+-+Trojan+-+Domain+%3A+2083
-trojan://bpb-trojan@www.speedtest.net:2083?path=%2Ftr5DAVqvK9MJlrDLy0%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=PuRtuF.PAGes.Dev#%F0%9F%92%A6+17+-+Trojan+-+Domain+%3A+2083
-trojan://bpb-trojan@188.114.96.0:2083?path=%2FtrKFnOFQ7qLiRVhdpH%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=pURtuf.PaGes.Dev#%F0%9F%92%A6+18+-+Trojan+-+IPv4+%3A+2083
-trojan://bpb-trojan@188.114.97.0:2083?path=%2FtrbMMJQnPIYChxVWtA%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=puRtuF.Pages.Dev#%F0%9F%92%A6+19+-+Trojan+-+IPv4+%3A+2083
-trojan://bpb-trojan@104.16.95.96:2083?path=%2FtrjNYUClrN1cM9yihX%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=pURTuF.PaGes.dev#%F0%9F%92%A6+20+-+Trojan+-+Clean+IP+%3A+2083
-trojan://bpb-trojan@purtuf.pages.dev:2087?path=%2FtrSKqD9CWG2pwmq61z%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=pURTUf.PagES.DEV#%F0%9F%92%A6+21+-+Trojan+-+Domain+%3A+2087
-trojan://bpb-trojan@www.speedtest.net:2087?path=%2FtrncsfzScK8n6FDLq1%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=PURtUf.pAgeS.dEV#%F0%9F%92%A6+22+-+Trojan+-+Domain+%3A+2087
-trojan://bpb-trojan@188.114.96.0:2087?path=%2FtrFSABVFKHfPsK1C7G%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=pUrtuf.PageS.DEV#%F0%9F%92%A6+23+-+Trojan+-+IPv4+%3A+2087
-trojan://bpb-trojan@188.114.97.0:2087?path=%2FtrpgIv8bDmaM64Wlgo%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=pUrtUf.Pages.DEv#%F0%9F%92%A6+24+-+Trojan+-+IPv4+%3A+2087
-trojan://bpb-trojan@104.16.95.96:2087?path=%2Ftr4VeKSn65EqSnO6MP%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=PURTuf.PAges.DeV#%F0%9F%92%A6+25+-+Trojan+-+Clean+IP+%3A+2087
-trojan://bpb-trojan@purtuf.pages.dev:2096?path=%2FtrRFqchZz5heaakJAP%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=pURTUF.PagES.Dev#%F0%9F%92%A6+26+-+Trojan+-+Domain+%3A+2096
-trojan://bpb-trojan@www.speedtest.net:2096?path=%2FtrNZBr9gas7hcbulKZ%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=puRTUF.pageS.dev#%F0%9F%92%A6+27+-+Trojan+-+Domain+%3A+2096
-trojan://bpb-trojan@188.114.96.0:2096?path=%2FtrIWznbEk2VjZ2lKqh%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=puRTuF.paGeS.deV#%F0%9F%92%A6+28+-+Trojan+-+IPv4+%3A+2096
-trojan://bpb-trojan@188.114.97.0:2096?path=%2FtrQzHCcYWQbJSrmRVJ%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=pUrtUf.PaGeS.Dev#%F0%9F%92%A6+29+-+Trojan+-+IPv4+%3A+2096
-trojan://bpb-trojan@104.16.95.96:2096?path=%2FtrX5NKrcKjEDg93ym3%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=purtuf.pages.dev&fp=randomized&type=ws&sni=pURTuF.pAges.dev#%F0%9F%92%A6+30+-+Trojan+-+Clean+IP+%3A+2096
-
+trojan://telegram-id-privatevpns@51.20.179.154:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.20.179.154:22222
+trojan://telegram-id-directvpn@18.135.124.106:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2
+trojan://telegram-id-directvpn@63.32.136.35:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AA%20%E7%88%B1%E5%B0%94%E5%85%B0%20V2CROSS.COM
+trojan://telegram-id-privatevpns@51.44.140.229:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%A9%E5%AE%89%E5%85%A8%E9%83%A8
+trojan://telegram-id-directvpn@54.72.10.128:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AA%20%E7%88%B1%E5%B0%94%E5%85%B0%20%E9%83%BD%E6%9F%8F%E6%9E%97Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://telegram-id-directvpn@13.61.114.248:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.61.114.248:22222
+trojan://telegram-id-directvpn@35.177.195.224:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-35.177.195.224:22222
+trojan://telegram-id-privatevpns@3.120.106.178:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.120.106.178:22222
+trojan://telegram-id-directvpn@15.236.24.253:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.236.24.253:22222
+trojan://telegram-id-privatevpns@35.181.125.244:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.181.125.244:22222
+trojan://telegram-id-privatevpns@52.56.101.96:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-52.56.101.96:22222
+trojan://telegram-id-privatevpns@63.176.77.138:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-63.176.77.138:22222
+trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@95.164.85.39:443?security=tls&sni=customer-95-164-85-39.stark-industries.solutions&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇩🇰 DK-95.164.85.39:443
+trojan://telegram-id-privatevpns@51.44.137.61:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.44.137.61:22222
+trojan://telegram-id-directvpn@63.176.246.40:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-63.176.246.40:22222
+trojan://telegram-id-privatevpns@13.48.32.167:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.48.32.167:22222
+trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@185.231.206.12:443?security=tls&sni=customer-185-231-206-12.stark-industries.solutions&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇫🇮 FI-185.231.206.12:443
+trojan://Julius@104.219.41.229:443?allowInsecure=0&sni=miami.juliusnet.com#%F0%9F%87%BA%F0%9F%87%B8%20%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA%20V2CROSS.COM
+trojan://ComYEI7fQv@51.68.215.55:443?security=tls&sni=uk-04.allhubb.info&type=ws&path=/TBHDjkhbgbygcvbjhbfrASDFASdfapoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg#🔒 TR-WS-TLS 🇫🇷 FR-51.68.215.55:443
