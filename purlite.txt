@@ -1,3 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#%E6%AC%A7%E7%9B%9F%20V2CROSS.COM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6SUNTRVVvUjdWUVZHOWF5WS9BMER4RW5iMk1hTXFwVDRVbUU0TC9oSldrPQ==@45.150.32.116:39490#🔒 SS-TCP-NA 🇩🇪 DE-45.150.32.116:39490
+
 vless://3894cbc1-e06a-11ee-95c9-00505603e70d@172.67.73.241:443?security=tls&sni=st-fr-1.brocdn.com&type=ws&host=st-fr-1.brocdn.com&path=%2Fwebsocket#👉🆔
 
 trojan://4ac3e020-ac2c-11ef-bc72-1239d0255272@51.210.182.170:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-51.210.182.170:443
