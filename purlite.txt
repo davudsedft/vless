@@ -1,4 +1,5 @@
 vless://a9b64c6a-5b51-4e9b-ac7d-2f0288dcce09@fb5f3e4a.newmakhzan2.pages.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=fb5f3e4a.newmakhzan2.pages.dev&fp=randomized&type=ws&sni=fb5f3e4a.newmakhzan2.pages.dev#fb5f3e4a.newmakhzan2.pages.dev
+vless://a9b64c6a-5b51-4e9b-ac7d-2f0288dcce09@fb5f3e4a.newmakhzan2.pages.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=fb5f3e4a.newmakhzan2.pages.dev&fp=randomized&type=ws&sni=fb5f3e4a.newmakhzan2.pages.dev#fb5f3e4a.newmakhzan2.pages.dev
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#%E6%AC%A7%E7%9B%9F%20V2CROSS.COM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6SUNTRVVvUjdWUVZHOWF5WS9BMER4RW5iMk1hTXFwVDRVbUU0TC9oSldrPQ==@45.150.32.116:39490#🔒 SS-TCP-NA 🇩🇪 DE-45.150.32.116:39490
 
