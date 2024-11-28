@@ -1,3 +1,5 @@
+trojan://4ac3e020-ac2c-11ef-bc72-1239d0255272@51.210.182.170:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-51.210.182.170:443
+
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?security=tls&sni=pages.dev&type=ws&host=fastxv.pages.dev&path=%2FXV2ray%3Fed%3D512#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.129.129:443
 vless://4f073a8d-28e0-4dc3-94e8-57bb333cbe91@104.21.47.27:443?security=tls&sni=yelt88rxdan.thelastronin.cloudns.org&type=ws&host=yelan.thelastronin.cloudns.org&path=%2FVLESS%2Ffr-freevmess.privateip.net&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.47.27:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.49.235:443?security=tls&sni=ay.ylks.xyz&type=ws&host=ay.ylks.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.49.235:443
