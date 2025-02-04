@@ -1,1 +1,1 @@
-wireguard://yMe%2F0QIaqq6wwhLMIURoV9wAmjp2LKgchDCY2uYfQGk%3D@188.114.97.110:878?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A844e%3A1bfc%3Aff47%3A1b5f%3Afe1e%2F128&presharedkey=&reserved=201%2C204%2C155&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#Warp
+hysteria2://dongtaiwang.com@46.17.41.189:50717?security=tls&insecure=1&sni=www.bing.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B7%F0%9F%87%BA%20RU-46.17.41.189%3A50717
