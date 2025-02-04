@@ -101,7 +101,7 @@
         "address": [
           "172.16.0.2/32"
         ],
-        "mtu": 1420,
+        "mtu": 1280,
         "peers": [
           {
             "endpoint": "188.114.97.110:878",
@@ -110,11 +110,11 @@
           }
         ],
         "reserved": [
-          35,
-          176,
-          214
+          201,
+          204,
+          155
         ],
-        "secretKey": "V78YJuv3JLYJctpcNnhvhiT8xjdLP0kjIbGLfQnrY9o="
+        "secretKey": "yMe/0QIaqq6wwhLMIURoV9wAmjp2LKgchDCY2uYfQGk="
       },
       "tag": "proxy"
     },
@@ -135,7 +135,7 @@
       "tag": "block"
     }
   ],
-  "remarks": "ns",
+  "remarks": "Warp",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
