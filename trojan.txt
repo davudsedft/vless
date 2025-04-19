@@ -1,0 +1,8 @@
+trojan://eG92F3gh09@51.15.86.181:1935?security=tls&sni=x1ams-scaleway.devefun.net#%F0%9F%87%AB%F0%9F%87%B7FR-51.15.86.181-1008
+trojan://I46LpSIM1f@194.164.57.9:1935?security=tls&sni=x4ger-ionos.devefun.net#%F0%9F%87%A9%F0%9F%87%AADE-194.164.57.9-1074
+trojan://dQUWbcwECl@automq3-proxy.automq-sg.com:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-74.176.59.185-0335
+trojan://aTArbZ2F0E@172.66.168.209:443?security=tls&sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&path=/linkvkws&Host=uSa-vp-27.bLAzECLOUD.SITE#%F0%9F%8F%81RELAY-172.66.168.209-0912
+trojan://amclubs@154.83.2.61:8443?security=tls&sni=tran.amclubstest.nyc.mn&type=ws&path=/?ed=2560&Host=tran.amclubstest.nyc.mn#%F0%9F%8F%81RELAY-154.83.2.61-1539
+trojan://amclubs@154.83.2.94:2053?security=tls&sni=tran.amclubstest.nyc.mn&type=ws&path=/?ed=2560&Host=tran.amclubstest.nyc.mn#%F0%9F%8F%81RELAY-154.83.2.94-1538
+trojan://dQUWbcwECl@automq4-proxy.automq-sg.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-20.191.138.47-0296
+trojan://amclubs@154.83.2.125:2087?security=tls&sni=tran.amclubstest.nyc.mn&type=ws&path=/?ed=2560&Host=tran.amclubstest.nyc.mn#%F0%9F%8F%81RELAY-154.83.2.125-1537
